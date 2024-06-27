@@ -1,0 +1,12 @@
+.scroll-transition {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.scroll-transition-up {
+    opacity: 0;
+}
+
+.scroll-transition-down {
+    opacity: 0;
+}
