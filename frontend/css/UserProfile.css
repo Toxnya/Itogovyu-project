@@ -1,0 +1,220 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #111111;
+    font-family: 'Onest L', Arial, sans-serif;
+}
+
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #222;
+    color: #fff;
+    max-width: 500px;
+    transform: translateY(50%);
+}
+
+.user-profile h2 {
+    margin-bottom: 20px;
+    color: #ffbf67;
+}
+
+.profile-info {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.profile-field {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.toggle-password-icon{
+    right: 100px;
+}
+
+.profile-field label {
+    color: #ffbf67;
+}
+
+.profile-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.profile-buttons button,
+.profile-buttons .go-home-button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffbf67;
+    color: #000;
+    cursor: pointer;
+    flex: 1;
+    margin: 0 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.profile-buttons button:hover {
+    background-color: #ff9f37;
+}
+
+.success-message {
+    color: #4caf50;
+    margin-top: 10px;
+}
+
+.error-message {
+    color: #f44336;
+    margin-top: 10px;
+}
+
+.change-username,
+.change-password {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+.change-username h2,
+.change-password h2 {
+    color: #ffbf67;
+    margin-bottom: 20px;
+}
+
+.change-username input,
+.change-password input {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #333;
+    color: #fff;
+}
+
+.change-username button,
+.change-password button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffbf67;
+    color: #000;
+    cursor: pointer;
+}
+
+.change-username button:hover,
+.change-password button:hover {
+    background-color: #ff9f37;
+}
+
+.toggle-password-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.password-field {
+    position: relative;
+}
+
+.profile-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.password-field {
+    position: relative;
+}
+
+.toggle-password-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    position: absolute;
+    left: 480px;
+    top: 50%;
+    transform: translateY(60%);
+}
+
+.profile-buttons .forgot-password-button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffbf67;
+    color: #000;
+    cursor: pointer;
+    flex: 1;
+    margin: 0 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.profile-buttons .forgot-password-button:hover {
+    background-color: #ff9f37;
+}
+
+
+.forgot-password,
+.reset-password {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.forgot-password h2,
+.reset-password h2 {
+    color: #ffbf67;
+    margin-bottom: 20px;
+}
+
+.forgot-password input,
+.reset-password input {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #333;
+    color: #fff;
+}
+
+.forgot-password button,
+.reset-password button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffbf67;
+    color: #000;
+    cursor: pointer;
+}
+
+.forgot-password button:hover,
+.reset-password button:hover {
+    background-color: #ff9f37;
+}
