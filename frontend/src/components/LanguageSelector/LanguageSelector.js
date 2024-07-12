@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import { useTranslation } from "react-i18next";
-import languageIcon from '../../images/world.png'
 import '../../css/LanguageSelector.css'
+
+const languageIcon = 'https://res.cloudinary.com/dg3rglilr/image/upload/v1720534639/world_jrspvy.png'
 
 const LanguageSelector = () => {
     const { i18n } = useTranslation();
