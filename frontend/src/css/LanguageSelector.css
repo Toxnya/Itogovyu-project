@@ -1,0 +1,31 @@
+.language-switcher {
+    position: relative;
+    display: inline-block;
+    right: 10px;
+}
+
+.icon {
+    cursor: pointer;
+}
+
+.language-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #000000;
+    border: 1px solid #3a3a3a;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.language-dropdown li {
+    list-style: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.language-dropdown li:hover {
+    background-color: #3f3f3f;
+}

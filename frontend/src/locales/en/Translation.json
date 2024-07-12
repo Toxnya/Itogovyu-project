@@ -1,0 +1,143 @@
+{
+  "hero_description": "Hero description goes here",
+  "official_discord": "Official Discord",
+  "youtube": "YouTube",
+  "language": "Language",
+  "heroes": {
+    "jiyan": {
+      "name": "Jiyan",
+      "description": "Jiyan is the General of Midnight Rangers stationed in Jinzhou, embracing strong sense of justice and resolution. Born in a family devoted to medicine, Jiyan is both skilled and attentive. Later, in a bid to fend off the encroaching Tacet Discords, he relinquished his role in medicine and took up arms as a soldier."
+    },
+    "yinlin": {
+      "name": "Yinlin",
+      "description": "Previously known as an outstanding Jinzhou Patroller, Yinlin is steady and reliable, yet harbors hidden depths of secrets. She excels at exploiting resources at her disposal to uncover lurking crimes. Beneath her aloof and flamboyant exterior, Yinlin possesses a heart of gold, reserved only for those she deems trustworthy."
+    },
+    "jianxin": {
+      "name": "Jianxin",
+      "description": "Born in the wilderness and raised in a Taoist sect, Jianxin has been imparted the martial arts of Fengyiquan. Her upbringing instilled in her a pure and persistent dedication to perfecting her martial arts skills. Now she journeys into the secular world, eager to experience the bittersweetness of everyday life and gain a deeper understanding of the world around her."
+    },
+    "verina": {
+      "name": "Verina",
+      "description": "Formerly a member of a Pioneer Association expedition team from the New Federation, Verina is a humble and determined plant breeder. Somehow she always ends up taking on caretaker duties in any expedition, showing remarkable tenacity for her age."
+    },
+    "encore": {
+      "name": "Encore",
+      "description": "Encore, a consultant from the Black Shores, is a quirky, lively, and spunky girl who loves to recount her friendships and adventures through fantasy and fairy tales. She always has two Woolies with her, who are Encore's best friends and protectors. With Cosmos and Cloudy, Encore travels all over the world!"
+    },
+    "lingyang": {
+      "name": "Lingyang",
+      "description": "Lingyang is a sincere, compassionate foreign visitor of the human community. He joined the Liondance Troupe in Jinzhou by chance, aspiring to dispel fear and dread for others through his electrifying 'Liondance'."
+    },
+    "calcharo": {
+      "name": "Calcharo",
+      "description": "Leader of the 'Ghost Hounds', an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer."
+    }
+  },
+
+  "lore": {
+    "tabs": {
+      "tab1": {
+        "title": "Solaris-3",
+        "content": "Sol-III, the third planet from the sun. A world of chaos and change, where old conventions are discarded and disasters run rampant. Human civilization struggles to survive in this new era of destruction and rebirth, facing uncharted challenges with unwavering determination."
+      },
+      "tab2": {
+        "title": "Waveworn Phenomenon",
+        "content": "The Lament's power causes destructive anomalies, such as the \"Tacet Fields\", \"Tacet Discord Outbreaks\", and the mysterious matter named \"Tacetite\". These are collectively known as the \"Waveworn Phenomena\"."
+      },
+      "tab3": {
+        "title": "Tacet Field",
+        "content": "The \"Tacet Fields\" are thought to be where all Tacet Discords originate. These locations feature a sky of inverted seas and a deep cross-shaped Tacet Mark on the ground. Reverberations fill the air, linking our world to an unknown space through a white Resonance Cord. These areas attract gatherings of Tacet Discords."
+      },
+      "tab4": {
+        "title": "Resonator",
+        "content": "Individuals with the ability to resonate with certain objects and manipulate their frequencies are known as \"Resonators\". These individuals exhibit unique \"Resonance Abilities\", also known as their \"Fortes\", through the \"Tacet Mark\" on their bodies. According to experts, a Resonator's abilities are often influenced by their past experiences and subconscious mind."
+      },
+      "tab5": {
+        "title": "Taced Discord",
+        "content" : "Tacet Discords, created by the Waveworn Phenomena, are dangerous entities with ever-changing, amorphous forms. They possess \"Tacet Cores\" and feed on other frequencies to maintain stability and evolve. These creatures mimic their prey's abilities, shapes, and behaviors, influenced by the types of frequency they consume."
+      },
+      "tab6": {
+        "title": "Reverberation",
+        "content": "The Waveworn Phenomena is believed to alter matter, information, and energy by converting them into vibrating \"frequencies\", referred to as \"Reverberations\". This process has been observed through experimental evidence in the academic community."
+      },
+      "tab7": {
+        "title": "Remnant",
+        "content" : "In their studies of Waveworn Phenomena, scientists discovered \"Tacetite\" — a substance that can permanently hold Remnant Energy. The Tacetite can be made into potent weapons for Resonators to combat Tacet Discords. Transdimensional spaces where Remnant Energy is abundant are known as the Sonoro Spheres."
+      }
+    }
+  },
+  "videosLore": {
+    "tabs": {
+      "tab1": {
+        "title": "Bosses/Combat",
+        "content": "In thrilling battles against powerful bosses, you will need strategy and agility. Each fight is unique and full of dangers."
+      },
+      "tab2": {
+        "title": "Quests",
+        "content": "Participate in engaging quests, uncovering the mysteries of the world and earning valuable rewards for completing various tasks and missions."
+      },
+      "tab3": {
+        "title": "World Exploration",
+        "content": "Dive into a colorful and diverse world full of secrets and mysteries. Explore every corner, discovering new locations and meeting interesting characters."
+      },
+      "tab4": {
+        "title": "Characters",
+        "content": "Meet various characters, each with their own unique story, abilities, and personality. Form bonds and alliances as you journey through the game."
+      },
+      "tab5": {
+        "title": "World Locations",
+        "content": "Each region has its own features and stories, creating a unique atmosphere and experience for the player."
+      },
+      "tab6": {
+        "title": "Echo Absorption",
+        "content": "Absorb the echoes of defeated enemies to become stronger and master their art of combat.."
+      }
+    }
+  },
+  "world": "Game World",
+
+  "userProfile": "User Profile",
+  "newUsername": "New Username",
+  "changeUsername": "Change Username",
+  "updateUsername": "Update Username",
+  "newPasswordsDoNotMatch": "New passwords do not match",
+  "usernameUpdated": "Username updated successfully.",
+  "passwordUpdated": "Password updated successfully.",
+  "noTokenFound": "No token found",
+  "usernameOrEmail": "Username or Email",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "changePassword": "Change Password",
+  "currentPassword": "Current Password",
+  "newPassword": "New Password",
+  "confirmNewPassword": "Confirm New Password",
+  "updatePassword": "Update Password",
+  "passwordUpdatedSuccess": "Password updated successfully.",
+  "verificationCode": "Verification Code",
+  "sendVerificationCode": "Send Verification Code",
+  "register": "Register",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "login": "Login",
+  "dontHaveAccount": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "networkError": "Network error: ",
+  "close": "Close",
+  "goHome": "Go to Homepage",
+  "forgotPassword": "Forgot Password",
+  "resetPassword": "Reset Password",
+  "resetPasswordSuccess": "Password reset successfully",
+  "sendVerificationCodeSuccess": "Verification code sent successfully",
+  "sendResetCode": "Send Reset code",
+  "verificationCodeError": "Invalid verification code",
+  "resetPasswordError": "Failed to reset password",
+  "emailRequired": "Email is required",
+  "invalidEmail": "Invalid email address",
+  "successMessage": "Success",
+  "errorMessage": "Error",
+  "goBack" : "Back",
+  "exit" : "Exit",
+  "officialWebsite" : "Official Website",
+  "last" : "AS WUTHERING WAVES ECHO ENDLESSLY, MANKIND SET SAIL ON A NEW JOURNEY"
+}
